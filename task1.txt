@@ -1,1 +1,11 @@
 
+GitHub is a cloud-based software development and version control platform built on top of Git. [1] (/goto?url=CAESaAHrOzAVxTDaD3PEr8r61I6YNyknaD4YemEmwDE360SKO9-zIp2U8Dg-M_DzCIpUUoQnmLte1rzmnH-DkN8iuztXfdoVu6XWd6nGDkQrVS22Td9aYC9X5vs9j4UDQ-tpWBd6oZKpbdps)
+
+Key Functions
+
+• Code Hosting & Version Control: Stores project files in repositories (repos) while tracking every change, commit, and file revision over time. [1] (/goto?url=CAESbAHrOzAVM2FqwOnSj6dWO-ThcsdGp2UYyGdFuUzLxguHzs77N6meV4nq7U5suifPGu_6MX1y3CxWJK3_Ae0fGeL-N096zD4Bix4xu4cWdd5qfNo1aiA42M47hzC99MDObQiGJ3hG9t4vuWsocg), [2] (/goto?url=CAESdgHrOzAVLAUepXhHQuFWWRpySexVAZHx8-_SVBEOvMjVslfWBQfZr2LsP5-5nsaa-2n09L_GuDgpqRygZoeFyE6Si8QsyeiZh82sbY7grdwKd3Z1orpsIM4oTK3hwAUpIkPVEsom1Hq7sUS7qfTcfiuDxZLs9PI), [3] (/goto?url=CAESagHrOzAV7rI23zKIcIWC8qceHq47au69ZFYsj-WpHY9KCFpvToZ65eVMOXseIKlPj9eq2M4lsC8Mb7aZWgMcMM_3SZj-XELcF2x4rSj5Jz9CTcZdObh0Sf2fH2u20P2J35XtViiAzoungTg)
+• Collaboration: Enables multiple developers to work on the same project using branches, pull requests, and code reviews. [1] (/goto?url=CAESaAHrOzAVxTDaD3PEr8r61I6YNyknaD4YemEmwDE360SKO9-zIp2U8Dg-M_DzCIpUUoQnmLte1rzmnH-DkN8iuztXfdoVu6XWd6nGDkQrVS22Td9aYC9X5vs9j4UDQ-tpWBd6oZKpbdps)
+• Automation & CI/CD: Features tools like GitHub Actions for automated testing and deployment pipelines. [1] (/goto?url=CAESSwHrOzAVWjgvE5T9KQFOXk0G3ek688Yk3zvwbmOTnxoXE-M8CpriWApo2aGNfxOSyAnBG_PYv2UXmrAyd0TlHHKAwoonkLZINvHJtA)
+• AI & Security: Includes GitHub Copilot for AI-assisted coding and built-in vulnerability scanning/secret protection. [1] (/goto?url=CAESSwHrOzAVWjgvE5T9KQFOXk0G3ek688Yk3zvwbmOTnxoXE-M8CpriWApo2aGNfxOSyAnBG_PYv2UXmrAyd0TlHHKAwoonkLZINvHJtA)
+You can explore or sign up directly on the About GitHub page. [1] (/goto?url=CAESUAHrOzAVZ3-5wBCPK6MNw18nGB6olBp-MvvJn_UegSPJoM1mrccnog4uzMZRT5n4P27RbUuNJ7i50roy_lxkAwtMdBP8Zkv5FKnkaScfB_jx)
+Are you looking for a profile bio description, a README template, or information on how GitHub works? Let me know how I can help!
